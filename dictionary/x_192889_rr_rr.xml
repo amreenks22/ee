@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="rr" max_length="40" name="x_192889_rr_rr" type="collection"/>
+</database>
